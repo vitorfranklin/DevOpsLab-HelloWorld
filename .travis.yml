@@ -20,6 +20,6 @@ script:
 deploy:
   provider: heroku
   edge: true
-  authToken: 
-    secure: $HEROKU_API_KEY
+  api-key: 
+    secure: 81e1ca1a-1752-4b05-b636-01f88280fc99
   app: nilknarf
