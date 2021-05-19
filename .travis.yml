@@ -22,5 +22,5 @@ deploy:
   provider: heroku
   edge: true
   api-key: 
-    secure: "81e1ca1a-1752-4b05-b636-01f88280fc99"
+    secure: $ok
   app: nilknarf
